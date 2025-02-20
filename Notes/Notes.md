@@ -20,3 +20,10 @@ JavaScript has several built-in data types, which can be categorized into two ma
 - Object: A collection of properties, where each property is defined as a key-value pair. Example: { name: "John", age: 30 }
 - Array: A special type of object used to store ordered collections of values. Example: [1, 2, 3, 4]
 - Function: A block of code designed to perform a particular task, which can be invoked when needed.
+
+
+# JavaScript Data Structure
+JavaScript has a bunch of built-in data structures like…
+- An array for holding a dynamic collection of indexed items
+- Or a Set for holding a collection of unique items.
+- Or Map which also holds a key-value pair like an object BUT can be more easily looped over along with a variety of other features.
